@@ -1,3 +1,6 @@
+let readline = require('readline');
+
+
 let num = prompt("Enter a number"); 
 
 if(num>0){
