@@ -4,7 +4,7 @@
  * pop() - remove from END
  * unshift() - add to BEGINNING
  * shift() - remove from BEGINNING
- * splice() - remove from a specific index
+ * splice(start, count) - remove from a specific index
  */
 
 let arr = [1, 2, 3, 4, 5];
